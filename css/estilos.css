@@ -1,12 +1,17 @@
 body
 {
+<<<<<<< HEAD
     Color:#333;
+=======
+    Color: red;
+>>>>>>> cabecera
     text-align: center;
-    font-family: "curier";
+    font-family: "arial";
     font: size 16px;
     margin: 0;
     padding: 0;
 }
+
 #cabecera
 {
     background: #33A;
@@ -22,6 +27,7 @@ body
     font-weight: normal;
     font-size: 0.8em;
 }
+
 #container
 {
     width: 70%;
