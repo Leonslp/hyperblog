@@ -7,4 +7,10 @@
 
 
 
+<<<<<<< HEAD
  # No se que estoy haciendo XD  
+=======
+ # No se que estoy haciendo XD
+ terminando el curso de Git y GitHub
+ casi que no!
+>>>>>>> readme-mejorado
